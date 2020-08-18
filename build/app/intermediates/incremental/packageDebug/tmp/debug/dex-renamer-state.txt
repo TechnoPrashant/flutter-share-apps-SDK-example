@@ -1,0 +1,4 @@
+#Thu Aug 06 17:41:51 IST 2020
+base.0=/Volumes/Works/Work/Clients/ShareApp/workspace/share_app_demo/flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
