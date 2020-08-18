@@ -15,10 +15,7 @@ void main() {
 
 ### STEP: 2 
 ### There are two methods for send invitation 
-### 1.sendInvitation() (This method will use when need to ask details from user)
-### 2.sendInvitationInBackground() (This method will use when you have user details and pass it in background without user interface.)
 
-## For more details please take look example.
 ### sendInvitation()
 
 ```dart
