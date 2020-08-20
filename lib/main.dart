@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:share_apps/share_apps.dart';
 
 void main() {
-  ShareApps.init(appId: 'XXXXXXXXXX', secreteKey: 'XXXXXXXXXXXX');
+  ShareApps.init(appId: '15539901308027672219', secreteKey: '5ca001f255007786922623');
   runApp(MyApp());
 }
 
@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: MyHomePage(),
     );
   }
