@@ -3,9 +3,12 @@ import 'package:share_apps/share_apps.dart';
 
 void main() {
   ShareApps.init(
-      appId: '15539901308027672219',
+      appId: 'XXXXXXXXXXXXXXXXXXX',
+      //(AppId from)royalty.shareapps.net
       secreteKey: '5ca001f255007786922623',
-      email: 'john@debsmail.com');
+      //(secreteKey from)royalty.shareapps.net
+      email:
+          'XXX@XXX.com'); //(Email Address which registered in )royalty.shareapps.net (It required for email invitation)
   runApp(MyApp());
 }
 
@@ -47,12 +50,18 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 ShareApps.sendInvitationInBackground(
                     context: context,
-                    firstName: 'ABC',
-                    lastName: 'XYZ',
-                    email: 'xyz@gmail.com',
-                    countryName: 'India',
-                    language: 'Hindi',
-                    number: '444123456');
+                    firstName: 'XXXX',
+                    //User First Name
+                    lastName: 'XXXX',
+                    //User LastName
+                    email: 'XXX@XXX.com',
+                    //User Email Address
+                    countryName: 'United State',
+                    // User Country
+                    language: 'English',
+                    //User Language
+                    number:
+                        '+1000000000'); //User Mobile Number With Country Code
               },
             ),
           ],
