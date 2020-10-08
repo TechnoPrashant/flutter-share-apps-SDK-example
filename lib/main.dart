@@ -2,7 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:share_apps/share_apps.dart';
 
 void main() {
-  ShareApps.init(appId: '15539901308027672219', secreteKey: '5ca001f255007786922623');
+  ShareApps.init(
+      appId: '15539901308027672219',
+      secreteKey: '5ca001f255007786922623',
+      email: 'john@debsmail.com');
   runApp(MyApp());
 }
 
@@ -46,9 +49,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     context: context,
                     firstName: 'ABC',
                     lastName: 'XYZ',
-                    countryName: 'United States',
                     email: 'xyz@gmail.com',
-                    language: 'ENGLISH',
+                    countryName: 'India',
+                    language: 'Hindi',
                     number: '444123456');
               },
             ),
