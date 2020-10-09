@@ -1,6 +1,7 @@
 
 ### Country List
 | Afghanistan 	| Akrotiri 	| Albania 	| Algeria 	| American Samoa 	| Andorra 	| Angola 	| Anguilla 	| Antarctica 	| Antigua and Barbuda 	|  	|
+|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
 | Argentina 	| Armenia 	| Aruba 	| Ashmore and Cartier Islands 	| Australia 	| Austria 	| Azerbaijan 	| Bahamas The 	| Bahrain 	| Bangladesh 	|  	|
 | Barbados 	| Bassas da India 	| Belarus 	| Belgium 	| Belize 	| Benin 	| Bermuda 	| Bhutan 	| Bolivia 	| Bosnia and Herzegovina 	|  	|
 | Botswana 	| Bouvet Island 	| Brazil 	| British Indian Ocean Territory 	| British Virgin Islands 	| Brunei 	| Bulgaria 	| Burkina Faso 	| Burma 	| Burundi 	|  	|
