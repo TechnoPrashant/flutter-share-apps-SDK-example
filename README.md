@@ -79,7 +79,4 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
-
-<a href="https://github.com/Prashant09mca/flutter-share-apps-SDK-example">Example Demo</a>
-
 <a href="https://github.com/Prashant09mca/flutter-share-apps-SDK-example/blob/master/COUNTRY.md">View Country List</a>
