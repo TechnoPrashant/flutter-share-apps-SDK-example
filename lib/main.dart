@@ -4,9 +4,9 @@ import 'package:share_apps/share_apps.dart';
 void main() {
   ShareApps.init(
       appId: 'XXXXXXXXXXXXXXXXXXX',
-      //(AppId from)royalty.shareapps.net
-      secreteKey: '5ca001f255007786922623',
-      //(secreteKey from)royalty.shareapps.net
+      // (AppId from)royalty.shareapps.net
+      secreteKey: 'XXXXXXXXXXXXXXXXX',
+      // (secreteKey from)royalty.shareapps.net
       email:
           'XXX@XXX.com'); //(Email Address which registered in )royalty.shareapps.net (It required for email invitation)
   runApp(MyApp());
@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     //User LastName
                     email: 'XXX@XXX.com',
                     //User Email Address
-                    countryName: 'United State',
+                    countryCode: 'US',
                     // User Country
                     language: 'English',
                     //User Language
