@@ -3,12 +3,14 @@ import 'package:share_apps/share_apps.dart';
 
 void main() {
   ShareApps.init(
-      appId: 'XXXXXXXXXXXXXXXXXXX',
+      appId: 'XXXXXX',
       // (AppId from)royalty.shareapps.net
-      secreteKey: 'XXXXXXXXXXXXXXXXX',
+      secreteKey: 'XXXXXXXXXXXXXXXXXX',
       // (secreteKey from)royalty.shareapps.net
-      email:
-          'XXX@XXX.com'); //(Email Address which registered in )royalty.shareapps.net (It required for email invitation)
+      email: 'XXXXXX@xxx.com',
+      //(Email Address which registered in )royalty.shareapps.net (It required for email invitation)
+      app_name:
+          'XXXXXX'); //(Enter Your app name in which you integrate ShareApp SDK)
   runApp(MyApp());
 }
 
